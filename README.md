@@ -6,3 +6,5 @@ Learning Python for 100 days.
 ## Progress
 
 - Day 1 ✅
+- Day 2 ✅
+

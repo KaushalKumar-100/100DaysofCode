@@ -1,0 +1,7 @@
+Learned about various data types
+Checking different types their types using type() method
+type conversion of data type known as typecasting
+
+created two small project 
+1.BMI calculator
+2.Tip caluculator
