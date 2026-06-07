@@ -1,0 +1,4 @@
+learn about Identation important
+learn about syntax important
+know about how input and print function work
+Always write readable code and take valid and readable variables name
